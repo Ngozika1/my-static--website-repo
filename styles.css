@@ -4,13 +4,13 @@ body {
     color: hsl(61, 81%, 36%);
 }
 body {
-    background-color: #0a801c;
+    background-color: hwb(192 25% 46%);
 }
 
 .container {
     background-color: #0a3641;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 2px 4px hsla(80, 37%, 42%, 0.102);
+    box-shadow: 0 2px 4px rgba(74, 87, 49, 0.102);
 }
 
